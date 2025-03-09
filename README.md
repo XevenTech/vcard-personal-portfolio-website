@@ -9,8 +9,8 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 
 ## Demo
 
-![vCard Desktop Demo]([https://github.com/XevenTech/projects_snapshots/blob/main/vcard-portfolio/desktop.png?raw=true)
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![vCard Desktop Demo](https://github.com/XevenTech/projects_snapshots/blob/main/vcard-portfolio/desktop.png?raw=true "Desktop Demo")
+![vCard Mobile Demo](https://github.com/XevenTech/projects_snapshots/blob/main/vcard-portfolio/mobile.png?raw=true "Mobile Demo")
 
 ## Prerequisites
 
@@ -25,18 +25,18 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/xeventech/vcard-personal-portfolio-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/xeventech/vcard-personal-portfolio-website.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
 
 ## License
 
