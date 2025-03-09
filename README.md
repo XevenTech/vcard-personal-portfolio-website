@@ -34,10 +34,6 @@ Windows:
 git clone https://github.com/xeventech/vcard-personal-portfolio-website.git
 ```
 
-## Contact
+## Watch Video Tutorial
 
-
-
-## License
-
-MIT
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/vcard-portfolio/mobile.png?raw=true "Play")](https://youtu.be/vPyIBsxcWjM)
