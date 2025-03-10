@@ -36,7 +36,7 @@ git clone https://github.com/xeventech/vcard-personal-portfolio-website.git
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/vcard-portfolio/Thumbnail.png?raw=true "Play")](https://youtu.be/vPyIBsxcWjM)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/vcard-portfolio/Thumbnail.png?raw=true "Play")](https://youtu.be/-EuswwMCG4w)
 
 
 ## Thank you for reading, here's a cat:
