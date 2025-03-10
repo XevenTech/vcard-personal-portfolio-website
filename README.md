@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/vcard-personal-portfolio-website)
 ![GitHub stars](https://img.shields.io/github/stars/xeventech/vcard-personal-portfolio-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/xeventech/vcard-personal-portfolio-website?style=social)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+[![YouTube Video Views](https://img.shields.io/youtube/views/-EuswwMCG4w?style=social)](https://youtu.be/-EuswwMCG4w)
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
